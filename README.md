@@ -1,6 +1,5 @@
 # 👋 Hola, soy Osmel
 
-![Mi foto de perfil](./perfil.jpg)
 
 ## 📡 Sobre mí
 Soy **ingeniero en telecomunicaciones** especializado en comunicaciones móviles, mantenimiento, operación y optimización de estaciones base.  
