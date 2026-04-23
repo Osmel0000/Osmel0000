@@ -1,4 +1,34 @@
-# Hola, soy Osmel
+# 👋 Hola, soy Osmel
+
+![Mi foto de perfil](./perfil.jpg)
+
+## 📡 Sobre mí
+Soy **ingeniero en telecomunicaciones** especializado en comunicaciones móviles, mantenimiento, operación y optimización de estaciones base.  
+Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de red y KPIs.
+
+---
+
+## 🎯 Objetivos
+- Avanzar en mi nivel de inglés (de A2 a B1) para aplicarlo en contextos técnicos.  
+- Integrar vocabulario y gramática en mis tareas diarias de telecomunicaciones.  
+- Mantenerme actualizado en tendencias de **5G/6G y optimización de redes**.
+
+---
+
+## 🛠️ Habilidades
+
+![Telecom](https://img.shields.io/badge/Telecom-Networks-blue?style=for-the-badge&logo=signal)  
+![Base Stations](https://img.shields.io/badge/Base%20Stations-Maintenance-green?style=for-the-badge&logo=antenna)  
+![Optimization](https://img.shields.io/badge/Network-Optimization-orange?style=for-the-badge&logo=chart-line)  
+![English](https://img.shields.io/badge/English-A2%20→%20B1-yellow?style=for-the-badge&logo=book)
+
+---
+
+## 🌐 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osmel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
+[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:osmeldltr@ejemplo.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-osmel-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
 
 
 
