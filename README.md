@@ -4,14 +4,13 @@
 
 ## 📡 Sobre mí
 Soy **ingeniero en telecomunicaciones** especializado en comunicaciones móviles, mantenimiento, operación y optimización de estaciones base.  
-Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de red y KPIs.  
+Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de red y KPIs de la red móvil.  
 Además, estoy aprendiendo **programación web front end** para ampliar mis habilidades técnicas.
 
 ---
 
 ## 🎯 Objetivos
 - Avanzar en mi nivel de inglés (de A2 a B1) para aplicarlo en contextos técnicos.  
-- Integrar vocabulario y gramática en mis tareas diarias de telecomunicaciones.  
 - Mantenerme actualizado en tendencias de **5G/6G y optimización de redes**.  
 - Desarrollar proyectos web usando **HTML, CSS y JavaScript**.
 
@@ -37,7 +36,7 @@ Además, estoy aprendiendo **programación web front end** para ampliar mis habi
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Osmel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:tuemail@ejemplo.com)  
+[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:osmeldltr@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-osmel-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
 
 <!--
