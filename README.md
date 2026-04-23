@@ -4,18 +4,20 @@
 
 ## 📡 Sobre mí
 Soy **ingeniero en telecomunicaciones** especializado en comunicaciones móviles, mantenimiento, operación y optimización de estaciones base.  
-Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de red y KPIs.
+Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de red y KPIs.  
+Además, estoy aprendiendo **programación web front end** para ampliar mis habilidades técnicas.
 
 ---
 
 ## 🎯 Objetivos
 - Avanzar en mi nivel de inglés (de A2 a B1) para aplicarlo en contextos técnicos.  
 - Integrar vocabulario y gramática en mis tareas diarias de telecomunicaciones.  
-- Mantenerme actualizado en tendencias de **5G/6G y optimización de redes**.
+- Mantenerme actualizado en tendencias de **5G/6G y optimización de redes**.  
+- Desarrollar proyectos web usando **HTML, CSS y JavaScript**.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades en Telecomunicaciones
 
 ![Telecom](https://img.shields.io/badge/Telecom-Networks-blue?style=for-the-badge&logo=signal)  
 ![Base Stations](https://img.shields.io/badge/Base%20Stations-Maintenance-green?style=for-the-badge&logo=antenna)  
@@ -24,13 +26,19 @@ Actualmente trabajo en **La Habana, Cuba**, enfocado en mejorar parámetros de r
 
 ---
 
+## 💻 Habilidades en Programación
+
+![HTML](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Osmel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:osmeldltr@ejemplo.com)  
+[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:tuemail@ejemplo.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-osmel-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
-
-
 
 <!--
 **Osmel0000/Osmel0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
