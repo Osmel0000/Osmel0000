@@ -36,7 +36,7 @@ Además, estoy aprendiendo **programación web front end** para ampliar mis habi
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Osmel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Correo](https://img.shields.io/badge/Email-tuemail%40ejemplo.com-red?style=for-the-badge&logo=gmail)](mailto:osmeldltr@gmail.com)  
+[![Correo](https://img.shields.io/badge/Email-osmeldltr%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:osmeldltr@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-osmel-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
 
 <!--
